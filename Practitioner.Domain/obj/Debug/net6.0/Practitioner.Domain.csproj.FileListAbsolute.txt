@@ -1,0 +1,12 @@
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\bin\Debug\net6.0\Practitioner.Domain.deps.json
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\bin\Debug\net6.0\Practitioner.Domain.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\bin\Debug\net6.0\Practitioner.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\refint\Practitioner.Domain.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\Practitioner.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.Domain\obj\Debug\net6.0\ref\Practitioner.Domain.dll

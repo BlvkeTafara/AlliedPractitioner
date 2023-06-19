@@ -1,0 +1,17 @@
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.DataAccess.deps.json
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.DataAccess.runtimeconfig.json
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.DataAccess.pdb
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.Domain.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\bin\Debug\net6.0\Practitioner.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.csproj.CopyComplete
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\refint\Practitioner.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.pdb
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\Practitioner.DataAccess.genruntimeconfig.cache
+C:\Users\Blvke\source\repos\AlliedPractitioner\Practitioner.DataAccess\obj\Debug\net6.0\ref\Practitioner.DataAccess.dll
